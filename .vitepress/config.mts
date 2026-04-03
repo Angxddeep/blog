@@ -189,7 +189,7 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/PixelOS-AOSP" },
       { icon: "telegram", link: "https://t.me/PixelOSOfficial" },
-      { icon: "twitter", link: "https://twitter.com/PixelOSROM" },
+      { icon: "x", link: "https://x.com/PixelOSROM" },
     ],
   },
 });
